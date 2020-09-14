@@ -1,0 +1,13 @@
+.red {
+    background: red;
+}
+
+.btnDlt {
+    fontsize: 18px;
+    background-color: #ea2027;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 10%;
+    cursor: pointer
+}   
